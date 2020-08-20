@@ -1,0 +1,19 @@
+.menu a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px  
+}
+
+.menu a:hover {
+    transition: .3s ease-in-out;
+    color: #b3aca4;
+}
+
+.menu a:first-of-type {
+    margin-right: 25px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center
+}

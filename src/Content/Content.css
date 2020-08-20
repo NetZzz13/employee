@@ -1,0 +1,28 @@
+button {
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contentFirstName {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contentFirstName div {
+  margin-right: 10px;
+}
+
+.addEmployee {
+  display: flex;
+}
+
+.addEmployee input {
+  font-size: 18px;
+  margin-right: 10px;
+}
